@@ -795,7 +795,10 @@ header .song_side .popular_artists .item li img{
         margin: 0px 0px 0px 0px;
     }
     header .master_play h5 .subtitle {
-        font-size: 10px;
+        font-size: 8px;
+    }
+    .bi-play-fill::before {
+        font-size: 8px;
     }
 }
 
