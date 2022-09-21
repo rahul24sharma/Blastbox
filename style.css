@@ -776,7 +776,6 @@ header .song_side .popular_artists .item li img{
         top: -7px;
         cursor: pointer;
         transition: .3s linear;
-        opacity: 0;
     }
     header .master_play .icon {
         font-size: 10px;
