@@ -787,12 +787,15 @@ header .song_side .popular_artists .item li img{
         height: 25px;
     }
     header .master_play h5 {
-        font-size: 10px;
-        margin-left: 10px;
+        font-size: 8px;
+        margin-left: 5px;
         line-height: 12px;
     }
     header .master_play #currentStart {
         margin: 0px 0px 0px 0px;
+    }
+    header .master_play h5 .subtitle {
+        font-size: 10px;
     }
 }
 
